@@ -1,0 +1,327 @@
+body{
+    background-image: url(pictures/background3.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;                   
+}       
+
+.topbar {
+background-color: #7385be;
+overflow: hidden;
+color: white;
+text-align: center;
+font-family: Verdana;
+border-radius: 5px;
+border-color: aliceblue;
+border: solid;
+border-width: 1px;
+}
+.hobbies{
+display: inline-block;
+font-size: 20px;
+font-family: 'Phudu', curisve;
+font-weight: 10px;
+background-color: rgb(116, 147, 247);
+padding: 5px;
+padding-right: 400px;
+padding-left: 10px;
+border-radius: 5px;
+margin: 0;
+margin-top: 2px;
+margin-left: 4px;
+margin-bottom: 15px;
+color: whitesmoke;
+border:solid;
+border-width: 1px;
+}
+
+.guitarpic>img{
+border-radius: 100px;
+height: 150px;
+width: 150px;
+object-fit: cover;
+}
+.moviepic>img{
+border-radius: 100px;
+height: 150px;
+width: 150px;
+object-fit: cover;
+}
+.valorantpic>img{
+border-radius: 100px;
+height: 150px;
+width: 150px;
+object-fit: cover;
+}
+.grandparent{
+float: right;
+width: 580px;
+height: 200px;
+background-color: rgb(144, 168, 247);
+border: solid;
+border-radius: 10px;
+border-color: aliceblue;
+border-width: 2px;
+margin: 0;
+margin-top: 20px;
+padding-bottom: 25px;
+}
+.parent{
+width: 500px;
+padding-top: 0px;
+padding-left: 50px;
+padding-right: 0px;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+margin:0;
+background-color: rgba(142, 164, 236, 0.2);
+}
+img{
+border: solid;
+border-color: black;
+border-width: 1px;
+}
+
+.aboutcontex{
+background-color: rgb(144, 168, 247);
+font-family: 'Phudu', cursive;
+border: solid;
+border-width: 2px;
+border-color: aliceblue;
+border-radius: 10px;
+margin: 0px;
+margin-top: 20px;
+margin-bottom: 20px;
+width: 580px;
+height: 480px;
+display: inline-block;
+padding-left: 10px;
+padding-right:  10px;
+font-size: 20px;
+margin-left: 60px;
+}
+.aboutme{
+background-color: rgb(116, 147, 247);
+color: white;
+text-align: left;
+padding-left: 20px;
+padding-right:  20px;
+padding-bottom: 10px;
+padding-top: 10px;
+margin: 0;
+margin-top: 10px;
+border-radius: 10px;
+border: solid;
+border-width: 1px;
+border-color: aliceblue;
+font-size: 20px;
+font-family: 'Phudu', cursive;
+font-weight: 10px;       
+}
+.msu{
+color:rgb(243, 17, 17);
+}
+.iit{
+color: rgb(248, 248, 182);
+}
+.fun{
+color: yellow;
+}
+.website{
+color: white;
+}
+
+.favorite-series{
+background-color: rgb(144, 168, 247);
+display: inline-block; 
+float: right;
+margin: 0;
+padding: 0;
+margin-top: 15px;
+margin-left: 20px;
+width: 580px;
+border: solid;
+border-width: 2px;
+border-color: white;
+border-radius: 10px;
+}
+.list-of-series{
+text-align: center;
+margin: 0;
+padding: 0;
+}
+
+.series{
+background-color: rgb(116, 147, 247);
+font-family: 'Phudu', cursive;
+margin-top: 5px;
+margin-bottom: 5px;
+margin-left: 5px;
+margin-right: 5px;
+border-radius: 5px;
+border:solid;
+border-width: 1px;
+border-color: white;
+color: white;
+
+}
+.lists {
+display: inline-block;
+background-color: rgb(116, 147, 247);
+margin-top: 0;
+margin-bottom: 0;
+margin-left: 0;
+margin-right: 0;
+padding: 0;
+font-family: 'Phudu', cursive;
+font-size: 20px;
+float: left;
+padding-left: 40px;
+padding-right: 375px;
+margin-left: 9px;
+margin-bottom: 8px;
+border-radius: 5px;
+border:solid;
+border-width: 1px;
+border-color: white;
+
+}
+.gridcontainer{
+margin: 0;
+margin-top: 0;
+padding: 0;
+display: inline-block;
+float: right;        
+height: 500px;
+width: 500px;
+margin-right: 75px;
+}
+.paragraph{
+background-color: rgb(116, 147, 247);
+margin: 0px;
+padding: 0;
+padding-left: 5px;
+padding-right: 2px;
+padding-bottom: 8px;
+border-radius: 5px;
+border:solid;
+border-width: 1px;
+border-color:white;
+margin-top: 20px;
+}
+
+.picturedogs{
+margin: 0;
+margin-top: 0px;
+padding: 0;
+display: inline-block;
+float: center;        
+height: 450px;
+width: 1335px;
+margin-right: 75px;
+background-color: rgb(144, 168, 247);
+border-radius: 10px;
+border: solid;
+border-width: 2px;
+border-color: aliceblue;
+
+}
+.parentdog{
+width: 1285px;
+padding-top: 0px;
+padding-left: 50px;
+padding-right: 0px;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+margin:0;
+background-color: rgb(142, 164, 236);
+margin-top: 20px;
+}
+.doglabel{
+display: inline-block;
+background-color: rgb(116, 147, 247);
+padding: 0;
+margin: 0;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+font-family: 'Phudu', cursive;
+font-size: 20px;
+padding-left: 50px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 670px;
+color: white;
+border: solid;
+border-radius: 5px;
+border-width: 1px;
+
+}
+.lilol>img{
+border-radius: 30px;
+height: 300px;
+width: 300px;
+object-fit: cover;
+}
+.chichi>img{
+border-radius: 30px;
+height: 300px;
+width: 300px;
+object-fit: cover;
+}
+.sophia>img{
+border-radius: 30px;
+height: 300px;
+width: 300px;
+object-fit: cover;
+}
+.doggi>img{
+border-radius: 30px;
+height: 300px;
+width: 300px;
+object-fit: cover;
+}
+.namelilol{
+font-family: 'Phudu', cursive;
+text-align: center;
+font-size: 25px;    
+}
+.namechichi{
+font-family: 'Phudu', cursive;
+text-align: center;
+font-size: 25px;    
+}
+.namesophia{
+font-family: 'Phudu', cursive;
+text-align: center;
+font-size: 25px;    
+}
+.namedoggi{
+font-family: 'Phudu', cursive;
+text-align: center;
+font-size: 25px;    
+}
+.lastpart{
+background-color: rgb(28, 36, 49);
+color: white;
+margin-top: 10px;
+margin-right: 0px;
+margin-left: 0px;
+margin-bottom: 0px;
+padding: 3px;
+font-family: 'Phudu', cursive;
+font-size: 14px;
+
+}
+.click{
+text-decoration: underline;
+}
+.click:hover{
+text-decoration: underline;
+color: red;
+cursor: pointer;
+}
+.gmail{
+text-decoration: underline;
+}
